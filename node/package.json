@@ -1,0 +1,15 @@
+{
+    "name": "etcd-test",
+    "version": "0.0.1",
+    "description": "etcd test",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+	"node-etcd": "^5.0.3"
+    },
+    "engines": {
+        "node": "6.9.1"
+    }
+}
